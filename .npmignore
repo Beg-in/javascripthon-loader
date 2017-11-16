@@ -1,0 +1,8 @@
+.npmignore
+.gitignore
+.eslintrc.js
+yarn.lock
+package-lock.json
+test.js
+coverage
+.node-virtualenv
